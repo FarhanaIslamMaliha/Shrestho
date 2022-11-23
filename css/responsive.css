@@ -1,0 +1,415 @@
+@media(min-width:320px) and (max-width:575px) {
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #fff !important;
+    }
+
+    nav ul {
+        text-align: center !important;
+        margin-left: 0 !important;
+    }
+
+    nav .ml-auto,
+    .mx-auto {
+        margin-left: auto !important;
+        margin-top: 15px !important;
+    }
+
+    nav .navbar-brand img {
+        width: 100% !important;
+    }
+
+    nav ul li a {
+        margin-left: 0 !important;
+    }
+
+    nav ul .hoveritem {
+        margin-left: 0px !important;
+    }
+
+    .navbar-nav .dropdown-menu {
+        position: absolute !important;
+        left: 50% !important;
+        transform: translateX(-50%) !important;
+    }
+    nav ul .talk{
+        display: inline-block !important;
+        padding: 5px 10px !important;
+        margin-top: 15px !important;
+        margin-bottom: 15px !important;
+    }
+    #pop-up h5{
+        margin-left: 40px !important;
+    }
+    #pop-up .modal-body .container{
+        width: 90% !important;
+    }
+    #banner-part .dropright{
+        width: 200px !important;
+    }
+    #banner-part .bnr-part{
+        height: 247px !important;
+    }
+    #banner-part .banner {
+    padding: 113px 0 !important;
+    }
+    #about-us {
+        margin-bottom: 10px !important;
+    }
+    #about-us .card {
+        width: 80% !important;
+        margin: 0 auto !important;
+        margin-bottom: 25px !important;
+    }
+    #grow-part .card {
+        width: 90%!important;
+        margin: 0 auto !important;
+         margin-bottom: 25px !important;
+    }
+    #grow-part .img img{
+       height: 190px !important;
+
+    }
+    #grow-part .shape {
+    padding: 95px 95px !important;
+    }
+    #grow-part .shape .box .talk a {
+    font-size: 13px !important;
+    padding: 5px 5px !important;
+    }
+    #grow-part .shape .box h1 {
+/*        margin-left: 69px !important;*/
+        font-size: 18px !important;
+}
+    #grow-part .shape .box .gap{
+/*        width: 39% !important;*/
+}
+    #footer-part .social:after {
+    width: 0px !important;
+
+}
+
+}
+@media(min-width:371px) and (max-width:575px) {
+#grow-part .shape {
+    padding: 95px 107px !important;
+    }
+}
+@media(min-width:401px) and (max-width:575px) {
+    #grow-part .img img{
+       height: 200px  !important;
+
+    }
+#grow-part .shape {
+    padding: 100px 115px !important;
+    }
+}
+@media(min-width:440px) and (max-width:575px) {
+    #grow-part .img img{
+       height: 248px  !important;
+    }
+    #grow-part .shape .box h1 {
+        font-size: 21px !important;
+}
+#grow-part .shape {
+     padding: 124px 132px !important;
+    }
+    #grow-part .shape .box .talk a {
+        font-size: 15px !important;
+    }
+    #grow-part .shape .box .gap {
+    width: 42% !important;
+}
+}
+@media(min-width:400px) and (max-width:575px) {
+
+    #pop-up .modal-dialog {
+        width: 380px !important;
+        margin: 10px auto !important;
+    }
+}
+@media(min-width:520px) and (max-width:575px) {
+     nav .navbar-brand img {
+        width: 90% !important;
+    }
+ }
+@media(min-width:576px) and (max-width:767px) {
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #fff !important;
+    }
+
+    nav ul {
+        text-align: center !important;
+        margin-left: 0 !important;
+    }
+
+    nav .ml-auto,
+    .mx-auto {
+        margin-left: auto !important;
+        margin-top: 15px !important;
+    }
+    nav .navbar-brand{
+         width: 40% !important;
+    }
+
+    nav .navbar-brand img {
+        width: 100% !important;
+    }
+
+    nav ul li a {
+        margin-left: 0 !important;
+    }
+
+    nav ul .hoveritem {
+        margin-left: 0px !important;
+    }
+
+    .navbar-nav .dropdown-menu {
+        position: absolute !important;
+        left: 50% !important;
+        transform: translateX(-50%) !important;
+    }
+    nav ul .talk{
+        display: inline-block !important;
+        padding: 5px 10px !important;
+        margin-top: 15px !important;
+        margin-bottom: 15px !important;
+    }
+    
+    #banner-part .dropright{
+        width: 200px !important;
+    }
+    #banner-part .bnr-part{
+        height:284px !important;
+    }
+    #banner-part .banner {
+    padding: 132px 0 !important;
+    }
+    #about-us{
+        margin-bottom: 40px;
+    }
+    #about-us .card {
+        width: 108% !important;
+    }
+    #about-us .card p {
+        font-size: 13px !important;
+    }
+    #grow-part .card {
+        width: 115% !important;
+    }
+    #grow-part .img img{
+       height: 181px !important;
+    }
+    #grow-part .shape .box h1 {
+        font-size: 13px !important;
+/*        margin-left: 57px !important;*/
+    }
+    #grow-part .shape {
+    padding: 91px 78px !important;
+    }
+    #grow-part .shape .box .talk a {
+        font-size: 11px !important;
+        padding: 5px 5px !important;
+    }
+    #grow-part .shape .box .gap {
+    width: 37% !important;
+}
+    #footer-part .ml{
+        margin-left: 30px !important;
+    }
+    #footer-part .mt{
+        margin-top: 15px !important;
+    }
+    #footer-part .pd{
+        padding: 0  !important;
+    }
+    
+    #footer-part .social:after {
+        right: -10px  !important;
+    }
+}
+@media(min-width:600px) and (max-width:767px) {
+    #grow-part .card {
+        width: 112% !important;
+    }
+/*
+    #grow-part .shape .box .gap {
+    width: 39% !important;
+}
+*/
+    #grow-part .shape .box h1 {
+        font-size: 15px !important;
+    }
+}
+@media(min-width:700px) and (max-width:767px) {
+    #grow-part .card {
+        width: 106% !important;
+    }
+    #grow-part .shape .box h1 {
+        font-size: 15px !important;
+    }
+    grow-part .shape {
+    padding: 91px 82px !important;
+}
+}
+
+
+@media(min-width:656px) and (max-width:767px) {
+    #about-us .card {
+        width: 97% !important;
+    }
+    #about-us .card p {
+        font-size: 14px !important;
+    }
+}
+@media(min-width:616px) and (max-width:767px) {
+    nav .navbar-brand{
+         width:37% !important;
+    }
+}
+@media(min-width:671px) and (max-width:767px) {
+    nav .navbar-brand{
+         width:33% !important;
+    }
+}
+@media(min-width:768px) and (max-width:991px) {
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #fff !important;
+    }
+
+    nav ul {
+        text-align: center !important;
+        margin-left: 0 !important;
+    }
+
+    nav .ml-auto,
+    .mx-auto {
+        margin-left: auto !important;
+        margin-top: 15px !important;
+    }
+   
+
+    nav ul li a {
+        margin-left: 0 !important;
+    }
+
+    nav ul .hoveritem {
+        margin-left: 0px !important;
+    }
+    nav .navbar-brand{
+         width:  31%  !important;
+    }
+
+    nav .navbar-brand img {
+        width: 100% !important;
+    }
+
+    .navbar-nav .dropdown-menu {
+        position: absolute !important;
+        left: 50% !important;
+        transform: translateX(-50%) !important;
+    }
+    nav ul .talk{
+        display: inline-block !important;
+        padding: 5px 10px !important;
+        margin-top: 15px !important;
+        margin-bottom: 15px !important;
+    }
+    #banner-part .dropright{
+        width: 200px !important;
+    }
+    #about-us .card {
+        width: 95% !important;
+    }
+    #grow-part .img img{
+       height:210px !important;
+    }
+    #grow-part .shape .box h1 {
+        font-size: 19px !important;
+/*        margin-left: 57px !important;*/
+    }
+    #grow-part .shape {
+    padding: 105px 100px !important;
+    }
+    #grow-part .shape .box .talk a {
+        font-size: 14px; !important;
+        padding: 5px 5px !important;
+    }
+   
+}
+@media(min-width:785px) and (max-width:991px) {
+    #about-us .card {
+        width:  83% !important;
+    }
+    #about-us .card p {
+    font-size: 15px !important;
+    }
+}
+@media(min-width:926px) and (max-width:991px) {
+    #about-us .card {
+        width:  100% !important;
+    }
+    #about-us .card p {
+    font-size: 14px !important;
+    }
+}
+@media(min-width:811px) and (max-width:991px) {
+    nav .navbar-brand{
+         width:  29%  !important;
+    }
+}
+@media(min-width:890px) and (max-width:991px) {
+    nav .navbar-brand{
+         width:  26%  !important;
+    }
+}
+@media(min-width:961px) and (max-width:991px) {
+    nav .navbar-brand{
+         width:  25%  !important;
+    }
+}
+@media(min-width:992px) and (max-width:1199px) {
+    nav ul .hoveritem {
+    margin-left: 32px  !important;
+}
+    #about-us .card {
+        width: 100% !important;
+    }
+    #footer-part .social:after {
+        right: 20px  !important;
+    }
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
